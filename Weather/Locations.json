@@ -1,0 +1,172 @@
+{
+    "locations": [
+        {
+            "LocationName": "Visakhapatnam",
+            "Country": "India",
+            "Lat": 17.6868,
+            "Long": 83.2185
+        },
+        {
+            "LocationName": "Hyderabad",
+            "Country": "India",
+            "Lat": 17.385044,
+            "Long": 78.486671
+        },
+        {
+            "LocationName": "Vijayawada",
+            "Country": "India",
+            "Lat": 16.506174,
+            "Long": 80.648018
+        },
+        {
+            "LocationName": "Warangal",
+            "Country": "India",
+            "Lat": 17.968901,
+            "Long": 79.594055
+        },
+        {
+            "LocationName": "Bengaluru",
+            "Country": "India",
+            "Lat": 12.9716,
+            "Long": 77.5946
+        },
+        {
+            "LocationName": "Mysuru",
+            "Country": "India",
+            "Lat": 12.2958,
+            "Long": 76.6394
+        },
+        {
+            "LocationName": "Chennai",
+            "Country": "India",
+            "Lat": 13.0827,
+            "Long": 80.2707
+        },
+        {
+            "LocationName": "Coimbatore",
+            "Country": "India",
+            "Lat": 11.0168,
+            "Long": 76.9558
+        },
+        {
+            "LocationName": "Madurai",
+            "Country": "India",
+            "Lat": 9.9252,
+            "Long": 78.1198
+        },
+        {
+            "LocationName": "Thiruvananthapuram",
+            "Country": "India",
+            "Lat": 8.5241,
+            "Long": 76.9366
+        },
+        {
+            "LocationName": "Kochi",
+            "Country": "India",
+            "Lat": 9.9312,
+            "Long": 76.2673
+        },
+        {
+            "LocationName": "Panaji",
+            "Country": "India",
+            "Lat": 15.4909,
+            "Long": 73.8278
+        },
+        {
+            "LocationName": "Mumbai",
+            "Country": "India",
+            "Lat": 19.0760,
+            "Long": 72.8777
+        },
+        {
+            "LocationName": "Pune",
+            "Country": "India",
+            "Lat": 18.5204,
+            "Long": 73.8567
+        },
+        {
+            "LocationName": "Ahmedabad",
+            "Country": "India",
+            "Lat": 23.0225,
+            "Long": 72.5714
+        },
+        {
+            "LocationName": "Rajkot",
+            "Country": "India",
+            "Lat": 22.3039,
+            "Long": 70.8022
+        },
+        {
+            "LocationName": "Indore",
+            "Country": "India",
+            "Lat": 22.7196,
+            "Long": 75.8577
+        },
+        {
+            "LocationName": "Bhopal",
+            "Country": "India",
+            "Lat": 23.2599,
+            "Long": 77.4126
+        },
+        {
+            "LocationName": "Nagpur",
+            "Country": "India",
+            "Lat": 21.1458,
+            "Long": 79.0882
+        },
+        {
+            "LocationName": "Bhubaneswar",
+            "Country": "India",
+            "Lat": 20.2961,
+            "Long": 85.8245
+        },
+        {
+            "LocationName": "Kolkata",
+            "Country": "India",
+            "Lat": 22.5726,
+            "Long": 88.3639
+        },
+        {
+            "LocationName": "Ranchi",
+            "Country": "India",
+            "Lat": 23.3441,
+            "Long": 85.3096
+        },
+        {
+            "LocationName": "Lucknow",
+            "Country": "India",
+            "Lat": 26.8467,
+            "Long": 80.9462
+        },
+        {
+            "LocationName": "New Delhi",
+            "Country": "India",
+            "Lat": 28.6139,
+            "Long": 77.2090
+        },
+        {
+            "LocationName": "Jaipur",
+            "Country": "India",
+            "Lat": 26.9124,
+            "Long": 75.7873
+        },
+        {
+            "LocationName": "Patna",
+            "Country": "India",
+            "Lat": 25.5941,
+            "Long": 85.1376
+        },
+        {
+            "LocationName": "Kanpur",
+            "Country": "India",
+            "Lat": 26.4499,
+            "Long": 80.3319
+        },
+        {
+            "LocationName": "Gurugram",
+            "Country": "India",
+            "Lat": 28.4595,
+            "Long": 77.0266
+        },
+    ]
+}
